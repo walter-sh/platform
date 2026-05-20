@@ -26,7 +26,7 @@
         "quill": "^2.0.0",
         "rtlcss": "^4.0.0",
         "sass": "^1.69.7",
-        "sass-loader": "^16.0.5",
+        "sass-loader": "^17.0.0",
         "simplemde": "^1.11",
         "sortablejs": "^1.13.0",
         "stimulus-vite-helpers": "^3.0.1",
