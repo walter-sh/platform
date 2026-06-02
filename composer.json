@@ -76,6 +76,12 @@
             "src/Support/helpers.php"
         ]
     },
+    "repositories": [
+    {
+      "type": "github",
+      "url": "git@github.com:walter-sh/blade-icons.git"
+    }
+  ]
     "autoload-dev": {
         "psr-4": {
             "Orchid\\Platform\\Database\\Factories\\": "database/factories/",
